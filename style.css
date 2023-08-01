@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1,
+h2 {
+    margin: 20px 0;
+}
+
+#mapid {
+    height: 1000px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+#summaryLabel {
+    margin-bottom: 20px;
+}
+
+#layer-dropdown {
+    margin-bottom: 20px;
+}
+
+.leaflet-container {
+    background: #fff;
+}
+
